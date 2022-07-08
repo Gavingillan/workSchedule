@@ -19,4 +19,4 @@ def getShift(day:int,month:int,year:int):
             return "", "OFF"
 
 if __name__ == "__main__":
-    print(getShift(8, 7, 2022))
+    print(getShift(9, 7, 2022))
